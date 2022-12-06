@@ -36,6 +36,11 @@ public void loginCheck()
 	lp.setUserName("user");
 	lp.setPassword("Pass");
 	lp.clicklogin();
+	
+	
+	
+	
+	
 }
 
 @Test
